@@ -28,3 +28,7 @@ Original story material and creator-confirmed canon outrank later production map
 Google Drive remains the source-of-record location for binary artwork, original transcripts, long-form source files, and production assets. This repository holds versioned indexes, canon rules, recovery records, manifests, and production-safe text documentation.
 
 **Google Drive root:** https://drive.google.com/drive/folders/1Xi9kQwU39hz38rDeCVhhWheOwzGQeLi9
+
+## Avatar State and animation production — October 3, 2026
+
+The [repository integration contract](07-production/VISIONWEAVER-AVATAR-STATE-INTEGRATION.md) links Avatar State v1.1 and children's animation/teaching v1.0: three boards, reconciled coverage, actual avatar references, scoped changes, perception/contact/reaction timing, world/camera anchors, vehicle/enclosure continuity and evidence-based acceptance. Documentation is synchronized; camera calibration and runtime/production verification remain open.
